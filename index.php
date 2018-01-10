@@ -11,7 +11,7 @@
     <h1 id="title"><a href="index.php">Welcome to Pizza Orders!</a></h1>  
 
     <div class="transbox">
-    <form action="" method="post">
+    <form action="action.php" method="post">
 
     <label>Select Pizzas: enter the amount of pizzas you want</label>
       
