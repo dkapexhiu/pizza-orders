@@ -41,7 +41,7 @@ if($address === ""){
 }
 
 if (!$error) {
-$to = "daniel.kapexhiu@gmail.com";
+$to = "";
 $subject = "Order submitted";
 $body = "An order has been submitted! These are the pizzas:\nNeapolitan Pizza: $neapolitan\nChicago Pizza: $chicago\nNew York Style Pizza: $newyork\nSicilian Pizza: $sicilian\nGreek Pizza: $greek\nContact this phone number: $phone with this address: $address to contact who has done the order.";
 $additionalheaders = "";
